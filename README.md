@@ -17,6 +17,7 @@
 - [Future Plans](#-future-plans)
 - [Contributing](#-contributing)
 - [License](#-license)
+- [Third-Party Licenses](#-third-party-licenses)
 
 <br>
 
@@ -33,7 +34,7 @@ It also supports:
 
 <br>
 
-## ⚙️ How It Works
+## ⚙️ How It Works?
 
 1. Verifies PowerShell 7+ is being used.
 2. Checks for required tools (`yt-dlp.exe` and `ffmpeg.exe`).
@@ -131,6 +132,14 @@ Let’s make GhostGrab even better — together.
 ## 📄 License
 
 This project is licensed under the MIT License. See LICENSE for details.
-Includes tools under their respective licenses:
-* yt-dlp
-* ffmpeg
+
+<br>
+
+## 📄 Third-Party Licenses
+
+This project uses the following third-party tools:
+
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp): Licensed under [Unlicense and GPLv3](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE).
+- [ffmpeg](https://ffmpeg.org): Licensed under [LGPL-2.1 or GPL-2.0](https://ffmpeg.org/legal.html), depending on build configuration.
+
+These tools are redistributed in their original binary form for user convenience. Please consult their official license pages for more information.
