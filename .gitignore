@@ -8,14 +8,17 @@
 # Tools
 /tools/*.exe
 
-# Downloads
+# Downloads (ignora tudo, mas mantém a pasta)
 /downloads/*
+!/downloads/.gitkeep
 
-# Cookies
-/cookies/*.txt
+# Cookies (ignora tudo, mas mantém a pasta)
+/cookies/*
+!/cookies/.gitkeep
 
-# Logs
+# Logs (ignora tudo, mas mantém a pasta)
 /logs/*
+!/logs/.gitkeep
 
 # Output files
 *.mp4
