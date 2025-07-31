@@ -1,12 +1,12 @@
-\# 👻 GhostGrab
+# 👻 GhostGrab
 
 
 
-\*\*GhostGrab\*\* is a standalone PowerShell tool for downloading videos from various platforms — including YouTube, Instagram, TikTok, and more — with no browser or app overhead.
+**GhostGrab** is a standalone PowerShell tool for downloading videos from various platforms — including YouTube, Instagram, TikTok, and more — with no browser or app overhead.
 
 
 
-> \*\*Disclaimer:\*\* This project is for educational and academic purposes only.
+> **Disclaimer:** This project is for educational and academic purposes only.
 
 > It is not intended for production use or to handle copyrighted or sensitive material.
 
