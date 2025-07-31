@@ -54,11 +54,10 @@ It also supports:
 
 There’s no installer. Just extract and run.
 
-```bash
 1. Download the latest `.zip` from the [Releases](https://github.com/Nespre/ghostgrab/releases) page.
 2. Extract the archive.
 3. Double-click `downloader.exe` or launch `downloader.ps1` in PowerShell 7+.
-```
+
 All dependencies (yt-dlp, ffmpeg, folder structure, etc.) come bundled.
 
 <br>
