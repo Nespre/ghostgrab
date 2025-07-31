@@ -1,0 +1,25 @@
+# PowerShell-generated
+*.ps1~
+*.psm1~
+*.psd1~
+*.log
+*.tmp
+
+# Tools
+/tools/*.exe
+
+# Downloads
+/downloads/*
+
+# Cookies
+/cookies/*.txt
+
+# Logs
+/logs/*
+
+# Output files
+*.mp4
+*.mkv
+*.webm
+*.part
+*.ytdl
