@@ -7,9 +7,12 @@ This folder contains third-party binaries required for GhostGrab to function:
 
 These files must exist for the downloader to operate properly.
 
+<br>
+
 ## 🔧 Requirements / Setup
 
 GhostGrab depends on two external tools which are not included in the repository, but can be easily added manually:
+
 1. yt-dlp.exe (required)
 
 Used for downloading video and audio from supported platforms.
