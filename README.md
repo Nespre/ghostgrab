@@ -28,8 +28,8 @@ It also supports:
 - Cookie-based authentication
 - Filename customization and sanitization
 - Custom output directories
-- Download logs (optional)
 - Pre-flight checks for dependencies and system compatibility
+- (Experimental) Optional log configuration — selection prompt exists, but logs are not yet functional
 
 <br>
 
@@ -38,13 +38,14 @@ It also supports:
 1. Verifies PowerShell 7+ is being used.
 2. Checks for required tools (`yt-dlp.exe` and `ffmpeg.exe`).
 3. Asks for the video URL and validates it.
-4. Checks if authentication is needed (via domain cookies).
-5. Retrieves the video title and allows filename override.
-6. Asks for the output folder (default is `downloads/`).
-7. Attempts download — using cookies if needed.
-8. Verifies success, logs if enabled, and cleans up.
+4. Prompts for log preference (not yet functional).
+5. Checks if authentication is needed (via domain cookies).
+6. Retrieves the video title and allows filename override.
+7. Asks for the output folder (default is `downloads/`).
+8. Attempts download — using cookies if needed.
+9. Verifies success, logs if enabled, and cleans up.
 
-Everything happens via terminal prompts — lightweight and interactive.
+> Everything happens via terminal prompts — lightweight and interactive.
 
 <br>
 
