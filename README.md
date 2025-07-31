@@ -10,11 +10,11 @@
 ## 📑 Table of Contents
 
 - [What Is It?](#-what-is-it)
-- [How It Works?](#--how-it-works)
+- [How It Works?](#-how-it-works)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Example Output](#-example-output)
-- [Future Plans](#--future-plans)
+- [Future Plans](#-future-plans)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Third-Party Licenses](#-third-party-licenses)
