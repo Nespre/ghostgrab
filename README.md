@@ -116,6 +116,7 @@ Some planned enhancements include:
 * Visual download progress bar
 * cookies.txt fetcher (via helper .exe)
 * Full support for logs/ output
+* Make a clean and intuitive interface
 
 <br>
 
